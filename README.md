@@ -14,9 +14,11 @@ The primary goal of this project is to compare the effectiveness of machine lear
 
 **Model Implementation:**
 
-**Machine Learning Models: ** Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naive Bayes, and Decision Tree.
+**Machine Learning Models:** Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naive Bayes, and Decision Tree.
+
 **Ensemble Models:** Random Forest and AdaBoost.
-**Transfer Learning Models: ** VGG16, VGG19, DenseNet121, and MobileNetV2.
+
+**Transfer Learning Models:** VGG16, VGG19, DenseNet121, and MobileNetV2.
 
 **Results**
 
