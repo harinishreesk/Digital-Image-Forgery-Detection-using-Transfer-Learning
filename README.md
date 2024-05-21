@@ -14,7 +14,9 @@ The primary goal of this project is to compare the effectiveness of machine lear
 **Preprocessing Techniques:**
 
 **Error Level Analysis (ELA):** Used to identify potential forged areas by comparing compression levels across different parts of the image.
+
 **Statistical Residual Model (SRM):** A denoising technique that enhances patterns and areas that may be forged.
+
 **Principal Component Analysis (PCA):** Applied for dimensionality reduction while retaining the most important features.
 
 **Model Implementation:**
