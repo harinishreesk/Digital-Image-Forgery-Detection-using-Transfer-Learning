@@ -2,7 +2,7 @@
 
 The project leverages the power of transfer learning to identify forged images within a dataset of 12,614 labeled images.
 
-**Dataset **
+**Dataset**
 
 https://www.kaggle.com/datasets/nishaahin/casiav2revised
 
