@@ -2,6 +2,11 @@
 
 The project leverages the power of transfer learning to identify forged images within a dataset of 12,614 labeled images.
 
+**Dataset **
+
+https://www.kaggle.com/datasets/nishaahin/casiav2revised
+
+
 **Overview**
 
 The primary goal of this project is to compare the effectiveness of machine learning, ensemble learning, and transfer learning models in detecting digital image forgeries. The project involves several key steps:
