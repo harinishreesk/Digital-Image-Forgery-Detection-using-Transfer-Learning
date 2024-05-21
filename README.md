@@ -1,7 +1,9 @@
 **Digital Image Forgery Detection Using Transfer Learning**
+
 The project leverages the power of transfer learning to identify forged images within a dataset of 12,614 labeled images.
 
 **Overview**
+
 The primary goal of this project is to compare the effectiveness of machine learning, ensemble learning, and transfer learning models in detecting digital image forgeries. The project involves several key steps:
 
 **Preprocessing Techniques:**
@@ -17,4 +19,5 @@ The primary goal of this project is to compare the effectiveness of machine lear
 **Transfer Learning Models: ** VGG16, VGG19, DenseNet121, and MobileNetV2.
 
 **Results**
+
 Through rigorous experimentation, we found that transfer learning models significantly outperformed traditional machine learning and ensemble models. Among the models tested, DenseNet121 achieved the highest accuracy of 92%, demonstrating its superior capability in the task of digital image forgery detection.
